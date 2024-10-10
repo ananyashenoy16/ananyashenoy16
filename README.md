@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ananya k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya k" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/ananyashenoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananyashenoy" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ananyashenoy62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ananyashenoy62" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ananyashenoy62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ananyashenoy62" height="30" width="40" /></a>
 <a href="https://instagram.com/ananya_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ananya_16" height="30" width="40" /></a>
 </p>
 
