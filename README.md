@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available in my [Portfolio](https://portfolio-black-seven-54.vercel.app/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://ananyashenoy.vercel.app/)
 
 - 📫 How to reach me **ananyashenoy62@gmail.com**
 
